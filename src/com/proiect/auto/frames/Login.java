@@ -140,6 +140,3 @@ public class Login extends JFrame {
 //global-public accesbil de peste tot cumva sa tin minte cin este logat+detalii user
 //singleton-clasa cu o singura instanta pe rulare care este globala
 //clasa usermanager care sa fie singleton si sa aibe metode ajutatoare de login
-
-//state d p + dependency injection (semi design pattern)
-//coada in 2 feluri la alegere (push pop peak) sa fie cu generics (nu conteaza ce elemente contine)
